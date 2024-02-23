@@ -1,0 +1,251 @@
+Technology	Prerequisites	Eureka	Infrastructure	Units	Effects
+Pottery
+Pottery	None	None	Granary, Mekewap (Cree only), Great Bath		Allows harvesting Maize, Rice, Wheat
+Animal Husbandry
+Animal Husbandry	None	None	Pasture, Camp, Kurgan (Scythia only)		Reveals Horses. Allows harvesting Cattle, Sheep, Deer
+Mining
+Mining	None	None	Mine, Quarry		Allows chopping Woods and harvesting Copper
+Sailing
+Sailing	None	Found a city on the Coast	Fishing Boats	Galley, Viking Longship (Harald Hardrada only), Bireme (Dido only)	Allows embarking Builders
+Astrology
+Astrology	None	Find a Natural Wonder	Holy Site, Lavra (Russia only), Shrine, Stonehenge		
+Irrigation
+Irrigation	Pottery	Farm a resource	Plantation, Stepwell (India only), Palgum (Babylon only), Hanging Gardens		Allows clearing Marsh and harvesting Bananas
+Writing
+Writing	Pottery	Meet another civilization	Campus, Library, Seowon (Korea only), Observatory (Maya only)		
+Archery
+Archery	Animal Husbandry	Kill a unit with a Slinger	Temple of Artemis	Archer, Pítati Archer (Nubia only), Hul'che (Maya only)	
+Masonry
+Masonry	Mining	Build a Quarry	Ancient Walls, Pyramids, Great Wall (China only), Nubian Pyramid (Nubia only), Canal (Qin Shi Huang's China only)	Battering Ram	Allows harvesting Stone
+Bronze Working
+Bronze Working	Mining	Kill 3 Barbarians	Encampment, Barracks, Basilikoi Paides (Macedon only), Ikanda (Zulu only), Thành (Vietnam only)	Spearman, Hoplite (Greece only)	Reveals Iron and allows chopping Rainforest
+Wheel
+Wheel	Mining	Mine a resource	Water Mill	Heavy Chariot, Maryannu Chariot Archer (Egypt only)	
+Classical Era
+Main article: Classical Era (Civ6)
+Technology	Prerequisites	Eureka	Infrastructure	Units	Effects
+Celestial Navigation
+Celestial Navigation	Sailing
+Astrology
+
+Improve 2 Sea Resources	Harbor, Royal Navy Dockyard (England only), Cothon (Phoenicia only), Lighthouse, Great Lighthouse		Allows embarking Traders and harvesting Fish, Crabs
+Currency
+Currency	Writing	Make a Trade Route Trade Route	Commercial Hub, Market, Sukiennice (Poland only)		
+Horseback Riding
+Horseback Riding	Archery	Build a Pasture	Stable, Ordu (Mongolia only)	Horseman, Saka Horse Archer (Scythia only), Varu (India only), Hetairoi (Macedon only)	
+Iron Working
+Iron Working	Bronze Working	Build an Iron Mine	Jebel Barkal, Oppidum (Gaul only)	Swordsman, Ngao Mbeba (Kongo only), Legion (Rome only), Immortal (Persia only), Hypaspist (Macedon only)	
+Shipbuilding
+Shipbuilding	Sailing	Own 2 Galleys	Kampung (Indonesia only), Colossus	Quadrireme, Dromon (Byzantium only)	Allows embarking all land units
+Mathematics
+Mathematics	Currency	Build 3 Specialty Districts	Petra, Diplomatic Quarter, Consulate		+1 Movement for all naval units
+Construction
+Construction	Horseback Riding
+Masonry	Build a Water Mill	Terracotta Army	Siege Tower, Toa (Mãori only)	
+Engineering
+Engineering	Wheel	Build Ancient Walls	Aqueduct, Bath (Rome only), Machu Picchu	Catapult	
+GameSpot Expert Reviews
+Civilization 6: Gathering Storm Review - Weather The Storm
+Civilization 6: Gathering Storm Review - Weather The Storm 
+11 February 2019
+
+Civilization 6: Rise And Fall Review: A New Era
+Civilization 6: Rise And Fall Review: A New Era 
+08 February 2018
+
+Civilization 6 Review
+Civilization 6 Review 
+24 October 2016
+
+Medieval Era
+Main article: Medieval Era (Civ6)
+Technology	Prerequisites	Eureka	Infrastructure	Units	Effects
+Military Tactics
+Military Tactics	Mathematics	Kill a unit with a Spearman	Huey Teocalli	Pikeman, Berserker (Norway only), Khevsur (Georgia only), Impi (Zulu only)	
+Buttress
+Buttress (GS-Only)	Shipbuilding
+Mathematics	Build a Classical Era or later Wonder	Dam, Hagia Sophia (GS-Only)		
+Apprenticeship
+Apprenticeship	Currency
+Horseback Riding	Build 3 Mines	Industrial Zone, Hansa (Germany only), Workshop	Man-At-Arms	+1 Production on Mines
+Stirrups
+Stirrups	Horseback Riding	Have the Feudalism civic		Knight, Mamluk (Arabia only), Keshig (Mongolia only), Mandekalu Cavalry (Mali only)	+1 Food on Pastures
+Machinery
+Machinery	Iron Working
+Engineering	Own 3 Archers	Lumber Mill, Kilwa Kisiwani (R&F-Only)	Crossbowman, Crouching Tiger (China only), Voi Chiến (Vietnam only), Skirmisher, Warak'aq (Inca only)	
+Education
+Education	Apprenticeship
+Mathematics	Earn a Great Scientist	University, Hagia Sophia (Vanilla and R&F-Only), University of Sankore		
+Military Engineering
+Military Engineering	Construction	Build an Aqueduct	Armory	Military Engineer, Trebuchet, Domrey (Khmer only)	Reveals Niter
+Castles
+Castles	Construction	Have a government with 6 policy slots (Vanilla and R&F-Only)
+Adopt a government with 6 inherent policy slots (GS-Only)
+
+Medieval Walls, Alhambra	Courser, Black Army (Hungary only) (GS-Only), Oromo Cavalry (Ethiopia only)	Bonus culture on Great Wall, +1 Spy as Catherine de Medici
+Renaissance Era
+Main article: Renaissance Era (Civ6)
+Technology	Prerequisites	Eureka	Infrastructure	Units	Effects
+Cartography
+Cartography	Shipbuilding (Vanilla and R&F-Only)
+Buttress (GS-Only)	Build 2 Harbors	Casa de Contratación	Caravel, Nau (Portugal only)	+1(R&F-Only +2) gold on Fishing Boats. Allows ocean movement.
+Mass Production
+Mass Production	Education
+Shipbuilding (Vanilla and R&F-Only)
+Buttress
+Military Tactics (GS-Only)
+
+Build a Lumber Mill	Shipyard, Venetian Arsenal		
+Banking
+Banking	Education
+Stirrups	Have the Guilds civic	Bank, Grand Bazaar, Great Zimbabwe		+2 Gold on Quarries (vanilla and R&F-Only)
+Gunpowder
+Gunpowder	Military Engineering
+Stirrups
+Apprenticeship	Build an Armory		Musketman, Conquistador (Spain only), Hwacha (Korea only), Malón Raider (Mapuche only), Janissary (Suleiman only)	+1 Production on Quarries
+Printing
+Printing	Machinery	Build 2 Universities	Forbidden City		+1 Diplomatic Visibility on all other civilizations and double Tourism on Great Works of Writing
+Square Rigging
+Square Rigging	Cartography	Kill a unit with a Musketman		Frigate, De Zeven Provinciën (Dutch only)	+1 Movement for Embarked units
+Astronomy
+Astronomy	Education	Build a University next to a Mountain	Potala Palace		
+Metal Casting
+Metal Casting	Gunpowder	Own 2 Crossbowmen		Bombard, Pike and Shot, Carolean (Sweden only)	
+Siege Tactics
+Siege Tactics	Castles	Own 2 Trebuchets	Renaissance Walls, Fort, Tsikhe (Georgia only)		
+Industrial Era
+Main article: Industrial Era (Civ6)
+Technology	Prerequisites	Eureka	Infrastructure	Units	Effects
+Industrialization
+Industrialization	Mass Production
+Square Rigging	Build 3 (GS-Only 2) Workshops	Factory, Electronics Factory (Japan only), Ruhr Valley, Coal Power Plant (GS-Only)		Reveals Coal and +1 Production on Mines
+Scientific Theory
+Scientific Theory	Astronomy	Have The Enlightenment civic	Oxford University		Allows Research Agreements and +1 Food on Plantations
+Ballistics
+Ballistics	Metal Casting	Have 2 Forts in your territory		Field Cannon, Cuirassier, Rough Rider (Teddy Roosevelt only)	
+Military Science
+Military Science	Siege Tactics
+Printing	Kill a unit with a Knight	Military Academy	Cavalry, Cossack (Russia only), Garde Impériale (France only), Redcoat (Victoria only), Line Infantry	
+Steam Power
+Steam Power	Square Rigging
+Industrialization	Build 2 Shipyards	Railroad, Canal, Panama Canal	Ironclad	+2 Movement for embarked units
+Sanitation
+Sanitation	Scientific Theory	Build 2 Neighborhoods	Sewer, Országház	Medic	
+Economics
+Economics	Metal Casting
+Scientific Theory	Build 2 Banks	Stock Exchange, Big Ben		
+Rifling
+Rifling	Ballistics
+Military Science	Build a Niter Mine		Ranger, Highlander (Scots only)	
+Modern Era
+Main article: Modern Era (Civ6)
+Technology	Prerequisites	Eureka	Infrastructure	Units	Effects
+Flight
+Flight	Industrialization
+Scientific Theory	Build an Industrial era or later wonder	Airstrip, Aerodrome, Hangar	Biplane, Observation Balloon	Tourism from Improvement Culture
+Replaceable Parts
+Replaceable Parts	Economics	Own 3 Line Infantries	Food Market	Infantry, Digger (Australia only)	+1 Food on Farms for each adjacent farm, +1 Production on Pastures
+Steel
+Steel	Rifling	Build a Coal Mine and an Ironclad	Eiffel Tower, (vanilla and R&F-Only) Oil Well	Battleship (Vanilla and R&F-Only), Artillery	+1 Production on Lumber Mill, unlocks Urban Defenses, (vanilla and R&F-Only) reveals Oil
+Refining
+Refining (GS-Only)	Rifling	Build 1 Coal Power Plant	Oil Well	Battleship	Reveals Oil
+Electricity
+Electricity	Steam Power	Own 3 (GS-Only 2) Privateers	Seaport, (vanilla and R&F-Only) Power Plant, (GS-Only) Oil Power Plant, Hydroelectric Dam	Submarine, U-Boat (Germany only),	Allows Convert to Oil Power project
+Radio
+Radio	Steam Power
+Flight	Build a National Park	Seaside Resort, Broadcast Center, Film Studio (America only)		Reveals Aluminum
+Chemistry
+Chemistry	Sanitation (GS-Only)
+Replaceable Parts	Complete a Research Agreement
+R&F-Only Have a level two Alliance.	Research Lab, Mountain Tunnel (GS-Only)	AT Crew	
+Combustion
+Combustion	Steel
+Refining (GS-Only)
+Rifling (Vanilla and R&F-Only)	Extract an Artifact Artifact	Oil Well (Vanilla and R&F-Only), Golden Gate Bridge	Tank, Supply Convoy	
+Atomic Era
+Main article: Atomic Era (Civ6)
+Technology	Prerequisites	Eureka	Infrastructure	Units	Effects
+Advanced Flight
+Advanced Flight	Radio	Build 3 Biplanes
+Build 2 Biplanes (GS-Only)
+
+Airport	Fighter, Bomber, P-51 Mustang (America only)	
+Rocketry
+Rocketry	Radio
+Chemistry	Boost through Great Scientist or Spy	Missile Silo, Spaceport,		Launch Earth Satellite (first step toward Science Victory), +1 Production on Quarries
+Advanced Ballistics
+Advanced Ballistics	Steel
+Replaceable Parts	Build 2 Power Plants
+Build 1 Oil Power Plant (GS-Only)		Machine Gun, Anti-air Gun	
+Combined Arms
+Combined Arms	Steel
+Combustion	Build an Airstrip (Vanilla and R&F-Only)
+Have 3 Armies or Armadas (GS-Only)		Destroyer, Aircraft Carrier	Reveals Uranium
+Plastics
+Plastics	Combustion	Build an Oil Well	Offshore Oil Rig	Spec Ops	+1 Food on Fishing Boats
+Computers
+Computers	Electricity	Have a government with 8 policy slots (Vanilla and R&F-Only)
+Adopt a government with 8 inherent policy slots (GS-Only)	Flood Barrier	Drone	+1 Spy, (vanilla and R&F-Only) +100% Tourism, (GS-Only) +25% Tourism
+Nuclear Fission
+Nuclear Fission	Advanced Ballistics
+Combined Arms	Boost through Great Scientist or Spy	Nuclear Power Plant		Manhattan Project, Build Nuclear Device
+Synthetic Materials
+Synthetic Materials	Plastics	Build 2 Aerodromes	Geothermal Plant, Biosphère	Helicopter	+1 (GS-Only +2) Gold on Camps
+Information Era
+Main article: Information Era (Civ6)
+Technology	Prerequisites	Eureka	Infrastructure	Units	Effects
+Telecommunications
+Telecommunications	Computers	Build 2 Broadcast Centers
+Boost through Great Scientist or Spy (GS-Only)		Nuclear Submarine	
+Satellites
+Satellites	Advanced Flight
+Rocketry	Boost through Great Scientist or Spy
+Build 2 Broadcast Centers (GS-Only)	Solar Farm	Mechanized Infantry,	Launch Moon Landing (second step towards Science Victory)
+Guidance Systems
+Guidance Systems	Rocketry
+Advanced Ballistics	Kill a Fighter		Rocket Artillery, Mobile SAM	
+Lasers
+Lasers	Nuclear Fission	Boost through Great Scientist or Spy
+Build 2 Drones (GS-Only)		Jet Fighter, Missile Cruiser	
+Composites
+Composites	Synthetic Materials	Own 3 Tanks	Wind Farm	Modern Armor, Modern AT	
+Stealth Technology
+Stealth Technology	Synthetic Materials	Boost through Great Scientist or Spy		Jet Bomber	
+Robotics
+Robotics	Computers Satellites (GS-Only)
+Guidance Systems (GS-Only)
+Lasers (GS-Only)	Have the Globalization civic		Giant Death Robot (GS-Only)	+1 Production on Pastures, (vanilla and R&F-Only) Launch Mars Habitation (1/3 of the final step of the Science Victory)
+Nuclear Fusion
+Nuclear Fusion	Lasers	Boost through Great Scientist or Spy			(vanilla and R&F-Only) Launch Mars Reactor (1/3 of the final step of the Science Victory),
+Operation Ivy, Build Thermonuclear Device
+Nanotechnology
+Nanotechnology	Composites	Build an Aluminum Mine			(vanilla and R&F-Only) Launch Mars Hydroponics (1/3 of the final step of the Science Victory)
+(GS-Only) Launch Mars Colony
+Future Tech
+Future Tech*	Robotics (Vanilla and R&F-Only)
+Nuclear Fusion (Vanilla and R&F-Only)
+Nanotechnology (Vanilla and R&F-Only)	N/A			Can be completed multiple times, increasing your points towards the Score Victory
+(GS-Only) +5% Production to city projects each time it is completed
+* This technology will appear in the following era if you have Gathering Storm installed.
+
+Future Era
+Main article: Future Era (Civ6)
+Note that this era of technology, unlike all other eras, is semi-randomized: all 7 technologies will appear in the game; however, the prerequisites to unlock them (and thus, how the tech tree looks in this era) vary each time.
+
+The exact Science Science costs of Future Era technologies will also vary based on the exact tech tree structure, with earlier techs costing less than base cost and later techs costing more. The cost is 2200 or 2300 Science Science, or 2500 Science Science for Offworld Mission.
+
+Technology	Eureka	Giant Death Robot upgrades	Other effects
+Advanced AI
+Advanced AI	Boost through Spy	Drone Air Defense: Anti-Air Strength Anti-Air Defense Strength increased to 130.	
+Advanced Power Cells
+Advanced Power Cells	Boost through Spy	Particle Beam Siege Cannon: Ranged attacks against cities and encampments are 100% effective and gain +30 Ranged Strength Ranged Strength	Carbon emission from units is reduced by 50%.
+Cybernetics
+Cybernetics	Boost through Spy	Enhanced Mobility: +3 Movement Movement, can perform a Jump action to cross over Mountains terrain	
+Offworld Mission
+Offworld Mission	Boost through Spy		Lagrange Laser Station, Terrestrial Laser Station
+Predictive Systems
+Predictive Systems	Boost through Spy		Offshore Wind Farm
+Seasteads
+Seasteads	Boost through Spy		Seastead, +1 Diplomatic Victory point
+Smart Materials
+Smart Materials	Boost through Spy	Reinforced Armor Plating: +10 Strength Combat Strength when defending against land and naval units	Exoplanet Expedition 

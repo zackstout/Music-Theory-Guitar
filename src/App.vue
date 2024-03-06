@@ -2,7 +2,7 @@
   <!-- <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/> -->
 
-  <div class="flex flex-col space-y-6 p-12 pb-24">
+  <div class="flex flex-col space-y-6 p-12">
     <div class="text-4xl">Chords</div>
 
     <table>
@@ -488,6 +488,11 @@
         <li>Position 3 is at fret 5</li>
         <li>Position 4 is at fret -5</li>
         <li>Position 5 is at fret -2</li>
+        <li>
+          The "blues" note is b5, from the perspective of the minor (Aeolian)
+          scale (whose root is blue here).
+        </li>
+        <li>It is, I guess, b3 from the perspective of the Ionian/major.</li>
       </ul>
     </div>
 
@@ -495,7 +500,7 @@
       <div
         class="w-40 h-40 flex items-center space-y-2 flex-col"
         v-for="(scale, idx) in pentatonics"
-        :key="scale"
+        :key="idx + 'penta'"
       >
         <div class="font-bold">{{ idx + 1 }}</div>
         <div class="italic">{{ pentatonicLabels[idx] }}</div>
@@ -503,6 +508,24 @@
           :isBig="true"
           :noteCoordinates="scale"
           :showThird="true"
+        />
+      </div>
+    </div>
+
+    <!-- Copy pasta for major scalez: -->
+    <div class="w-full flex justify-between pb-16">
+      <div
+        class="w-40 h-40 flex items-center space-y-2 flex-col"
+        v-for="(scale, idx) in majorScales"
+        :key="idx + 'major'"
+      >
+        <div class="font-bold">{{ idx + 1 }}</div>
+        <div class="italic">{{ pentatonicLabels[idx] }}</div>
+        <ChordVoicing
+          :isBig="true"
+          :noteCoordinates="scale"
+          :showThird="true"
+          :isChromatic="true"
         />
       </div>
     </div>
@@ -532,6 +555,22 @@
         <td>E</td>
         <td>G</td>
       </tr>
+      <tr>
+        <td>Japanese</td>
+        <td>R</td>
+        <td>M2</td>
+        <td>m3</td>
+        <td>5</td>
+        <td>m6</td>
+      </tr>
+      <tr>
+        <td>Japanese Ex</td>
+        <td>C</td>
+        <td>D</td>
+        <td>Eb</td>
+        <td>G</td>
+        <td>Ab</td>
+      </tr>
     </table>
 
     <div class="w-full h-1 border-gray-400 border bg-gray-400 my-4"></div>
@@ -540,8 +579,8 @@
     <div class="flex justify-center">
       <div
         v-for="(d, idx) in seventhArpeggios"
-        :key="d"
-        class="w-32 h-32 flex flex-col items-center"
+        :key="'seventh' + idx"
+        class="w-32 flex flex-col items-center"
       >
         <div class="font-bold">{{ seventhArpeggioTitles[idx - 1] }}</div>
         <div class="italic">{{ seventhArpeggioLabels[idx - 1] }}</div>
@@ -549,6 +588,120 @@
 
         <ChordVoicing :noteCoordinates="d" />
       </div>
+    </div>
+
+    <div class="w-full h-1 border-gray-400 border bg-gray-400 my-4 mt-8"></div>
+    <h3 class="text-4xl">Modes of Major Scale</h3>
+
+    <div class="flex flex-col space-y-3 items-center justify-center">
+      <table>
+        <tbody class="p-1">
+          <tr>
+            <td class="bold">Lydian</td>
+            <td class="italic">iv</td>
+            <td>Ex: F</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>^</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>Brightest</td>
+          </tr>
+          <tr>
+            <td class="bold">Ionian</td>
+            <td class="italic">i</td>
+            <td>Ex: C</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+          </tr>
+          <tr>
+            <td class="bold">Mixolydian</td>
+            <td class="italic">v</td>
+            <td>Ex: G</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>v</td>
+          </tr>
+          <tr>
+            <td class="bold">Dorian</td>
+            <td class="italic">ii</td>
+            <td>Ex: D</td>
+            <td>-</td>
+            <td>-</td>
+            <td>v</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>v</td>
+          </tr>
+          <tr>
+            <td class="bold">Aeolian</td>
+            <td class="italic">vi</td>
+            <td>Ex: A</td>
+            <td>-</td>
+            <td>-</td>
+            <td>v</td>
+            <td>-</td>
+            <td>-</td>
+            <td>v</td>
+            <td>v</td>
+          </tr>
+          <tr>
+            <td class="bold">Phrygian</td>
+            <td class="italic">iii</td>
+            <td>Ex: E</td>
+            <td>-</td>
+            <td>v</td>
+            <td>v</td>
+            <td>-</td>
+            <td>-</td>
+            <td>v</td>
+            <td>v</td>
+          </tr>
+          <tr>
+            <td class="bold">Locrian</td>
+            <td class="italic">vii</td>
+            <td>Ex: B</td>
+            <td>-</td>
+            <td>v</td>
+            <td>v</td>
+            <td>-</td>
+            <td>v</td>
+            <td>v</td>
+            <td>v</td>
+            <td>Darkest</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <ul>
+        <li>
+          The notes of C Ionian are identical to those of A Aeolian, D Dorian, E
+          Phrygian, etc.
+        </li>
+        <li>
+          The first (brightest) 3 modes are considered "major", and the next 3
+          are "minor".
+        </li>
+        <li class="font-bold italic">
+          So there are 2 ways to think of, e.g., "F Dorian":
+        </li>
+        <li>(a) As the notes of Eb Major, but starting at second note.</li>
+        <li>
+          (b) As the notes of F Major, but you flatten the 3rd and 7th notes.
+        </li>
+      </ul>
     </div>
   </div>
 </template>
@@ -566,6 +719,7 @@ import {
   triadsData,
   triadsShellData,
   uberChord,
+  majorScales,
 } from "./data";
 
 interface NoteCircle {
@@ -636,6 +790,8 @@ export default class App extends Vue {
   ].map((x) => ({ ...x, fret: x.fret + 1 }));
 
   pentatonics = Object.values(pentatonics);
+
+  majorScales = Object.values(majorScales);
 
   pentatonicLabels = ["Em/G", "Dm/E", "Cm/D", "Am/C", "Gm/A"];
 

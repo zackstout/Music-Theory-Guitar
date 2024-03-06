@@ -28,7 +28,7 @@
         v-for="(note, idx) in noteCoordsRender"
         :key="idx"
         r="7"
-        :fill="getFill(note.index)"
+        :fill="getFill(note.index || 0)"
         :cx="10 + (note.string * 80) / (strings.length - 1)"
         :cy="
           -(100 / 2) / (frets.length - 1) +
@@ -93,7 +93,7 @@ export default class ChordVoicing extends Vue {
 
   getFill(noteIndex: number) {
     if (this.isChromatic) {
-      return "hsl(" + (noteIndex * 360) / 12 + ", 90%, 50%)";
+      return "hsl(" + (noteIndex * 330) / 12 + ", 90%, 50%)";
     }
 
     if (this.showThird) {

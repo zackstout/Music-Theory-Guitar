@@ -701,6 +701,10 @@
         <li>
           (b) As the notes of F Major, but you flatten the 3rd and 7th notes.
         </li>
+        <li>
+          (Note to self: perhaps also map out the way to get all modes from a
+          single scale, shifting one to right with each new row.)
+        </li>
       </ul>
     </div>
   </div>

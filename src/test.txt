@@ -1,0 +1,87 @@
+Igglybuff
+#0174
+Igglybuff
+Normal · Fairy
+(high Friendship)
+Jigglypuff
+#0039
+Jigglypuff
+Normal · Fairy
+(use Moon Stone)
+Wigglytuff
+#0040
+Wigglytuff
+Normal · Fairy
+Zubat
+#0041
+Zubat
+Poison · Flying
+(Level 22)
+Golbat
+#0042
+Golbat
+Poison · Flying
+(high Friendship)
+Crobat
+#0169
+Crobat
+Poison · Flying
+Oddish
+#0043
+Oddish
+Grass · Poison
+(Level 21)
+Gloom
+#0044
+Gloom
+Grass · Poison
+(use Leaf Stone)
+Vileplume
+#0045
+Vileplume
+Grass · Poison
+(use Sun Stone)
+Bellossom
+#0182
+Bellossom
+Grass
+Paras
+#0046
+Paras
+Bug · Grass
+(Level 24)
+Parasect
+
+
+
+
+
+
+=====================
+
+https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_evolution_family
+
+Unfortunately lacks type info. So we can use:
+
+https://pokemondb.net/pokedex/all
+
+Sprites here:
+
+https://pokemondb.net/sprites
+
+<a href="https://pokemondb.net/pokedex/grimmsnarl"><img src="https://img.pokemondb.net/sprites/sword-shield/normal/grimmsnarl.png" alt="Grimmsnarl"></a>
+
+
+
+
+
+	Igglybuff	Friendship →	Jigglypuff	Jigglypuff	Moon Stone →	Wigglytuff	Wigglytuff
+Zubat family
+Zubat	Zubat	Level 22 →	Golbat	Golbat	Friendship →	Crobat	Crobat
+Oddish family
+Oddish	Oddish	Level 21 →	Gloom	Gloom	Leaf Stone →	Vileplume	Vileplume
+Sun Stone →	Bellossom	Bellossom
+Paras family
+Paras	Paras	Level 24 →	Parasect	Parasect	 
+Venonat family
+Venonat	Venonat	Level 31 →	Venomoth	Venomoth	 
